@@ -1,10 +1,10 @@
 # Draw-in-the-Air
 
-##An OpenCV project
+## An OpenCV project
 
 This application allows you to track the fingertips using which the user can draw on the screen by moving the fingertips around. It also contains a hold feature, in whhich by showing the complete hand you can stop the camera from painting. It is useful in painting disconnected drawings.
 
-##Libraries used
+## Libraries used
 OpenCV-Python
 Numpy
 
